@@ -12,6 +12,12 @@ The dashboard explores how property features like size, condition, furnishing st
 
 ---
 
+## 📸 Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
+
+---
+
 ## 📊 Dashboard Features
 
 | Sheet | Description |
@@ -81,11 +87,6 @@ The dashboard explores how property features like size, condition, furnishing st
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard Preview](dashboard_preview.png)
-
----
 
 ## 🚀 How to Use
 
